@@ -1,1 +1,1 @@
-print("this is sweety is account")
+print("this is sweety account")
